@@ -1,6 +1,4 @@
-Before: search google and stackoverflow  
-
-Now: prompt accept repeat
+prompt accept repeat
 
 <!--
 **debaghtk/debaghtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

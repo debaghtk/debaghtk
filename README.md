@@ -1,1 +1,1 @@
-I have been vibe coding before it was cool
+Vibe coding before it was cool
